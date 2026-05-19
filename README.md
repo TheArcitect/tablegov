@@ -42,9 +42,9 @@ npm run dev
 
 ## Theoretical Foundation
 
-The equation **R = C − A** (Schaeffer, 2026) formalizes a simple observation: recognition — the capacity of any system to respond to what is actually present — degrades in proportion to the agenda the system imports into the interaction.
+Each governance mechanism in TableGov targets a specific category of structural agenda — assumptions imported into oversight bodies that degrade their capacity to respond to what is actually present. The full theoretical framework is detailed in the linked paper; the implementation stands on its own.
 
-Applied to governance: every oversight body imports structural agenda (self-preservation, regulatory capture, appointment bias, temporal myopia). TableGov doesn't eliminate agenda — it makes agenda *transparent* and *expirable*.
+Every oversight body imports structural agenda (self-preservation, regulatory capture, appointment bias, temporal myopia). TableGov doesn't eliminate agenda — it makes agenda *transparent* and *expirable*.
 
 Each mechanism maps to a specific agenda-reduction strategy:
 
@@ -56,7 +56,7 @@ Each mechanism maps to a specific agenda-reduction strategy:
 
 ## Paper
 
-Schaeffer, M. (2026). *Recognition as Residual: An Information-Theoretic Framework for Epistemic Obstruction.* Preprint.
+Schaeffer, M. (2026). *Recognition as Residual: An Information-Theoretic Framework for Epistemic Obstruction.* Zenodo preprint. DOI: 10.5281/zenodo.19409743.
 
 The paper establishes the formal framework. This repository is the implementation.
 
@@ -66,7 +66,7 @@ MIT License. Use it, fork it, stress-test it. Governance infrastructure should b
 
 ## Author
 
-**Michael Schaeffer** — Independent researcher. Former CEO (Knox Services, Yoga Lab, BlackHeart), Morgan Stanley. Currently focused on AI safety, governance infrastructure, and the gap Claude Shannon deliberately left open in 1948.
+**Michael Schaeffer** — Independent researcher. Former CEO (Knox Services, Yoga Lab, BlackHeart), Morgan Stanley. Currently focused on AI safety, governance infrastructure, and institutional design.
 
 - [PhilPeople](https://philpeople.org/profiles/michael-schaeffer)
 - [GitHub](https://github.com/TheArcitect)

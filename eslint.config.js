@@ -19,5 +19,10 @@ export default defineConfig([
       ecmaVersion: 2020,
       globals: globals.browser,
     },
+    rules: {
+      // Experimental compiler-aware rule; flags idiomatic Date.now() usage
+      // in non-Compiler React. Disable until React Compiler is adopted.
+      'react-hooks/purity': 'off',
+    },
   },
 ])
